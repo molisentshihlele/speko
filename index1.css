@@ -1,0 +1,121 @@
+ *{
+	  magin:0;
+	  padding:0;
+	  font-family: century gothic;
+	  
+  }
+       
+  
+ .main{ background-color:gray;
+			 right:7px;
+			 height:60px;
+			 width:100%;
+			 position:behind;
+			 top:10px;		
+	         }
+ ul{
+	 float:right;
+     list-style-type:none;
+	 margin-top: 2 5px;}
+			 
+ul li{
+	display:inline-block;}
+ 
+ul li a{
+	text-decoration:none;
+	color:#fff;
+	padding: 5px 20px;
+	border:1px solid transparent;
+	transition :0.6s ease;} 
+			   
+ul li a:hover{
+      background-color: #fff;
+	  color: #000; }  		 
+	     
+.logo img{
+    float: left;
+    width: 80px;
+    height: auto;}
+	
+	
+	
+	h1{
+	         position:absolute;
+	         top:6%;
+	         left:50%;
+             transform: translate(-50%,-50%);
+			 color:white;
+			 font-size:50px;
+			 
+			 }
+
+ body{
+    background-color: rgba(123, 209, 156, 0.835);
+}
+header{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-image: url("mot.png") 
+}
+#nav{
+    position: relative;
+    width: 100%;
+    height: 25px;
+    top: 0px;
+    background-color: darkslategray;
+    text-align: center;
+   
+}
+a{
+    color: aliceblue;
+     text-decoration: none;
+}
+    
+    }
+    #footer{
+    position: relative;
+    width: 100%;
+    height: 25px;
+    top:550px;
+    background-color: darkslategray;
+    
+    }
+    #conat{
+    position: relative;
+    width: 800px;
+    height: 550px;
+    top:120px;
+    left: 300px;
+    font-style: oblique;
+    color: lightblue;
+    background-color: rgba(65, 192, 103, 0.411);
+    border: 1px black solid;
+    
+    }
+    h1{
+        position: relative;
+        left: 460px;
+    }
+    #front{
+        position: relative;
+        left:0px;
+        width: 350px;
+        height: 400px;
+        background-color: rgb(30, 83, 70);
+
+    }
+    #back{
+        position: relative;
+        top:-415px;
+        left: 450px;
+        width: 350px;
+        height: 400px;
+        background-color: rgb(30, 83, 70);
+
+    }
+    #conat img{
+        border-radius: 10px;
+    }
+
+   
